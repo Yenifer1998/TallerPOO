@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProyectoPOO", "ProyectoPOO.csproj", "{84E29E3D-0789-4511-9123-00305A5265CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadPOO", "..\EntidadPOO\EntidadPOO.csproj", "{9BBF3CDF-6DFB-4371-929E-ED605C6FDD77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegocioPOO", "..\NegocioPOO\NegocioPOO.csproj", "{BD26AE00-4B3A-40C4-A403-1772BBEE5B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84E29E3D-0789-4511-9123-00305A5265CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84E29E3D-0789-4511-9123-00305A5265CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84E29E3D-0789-4511-9123-00305A5265CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84E29E3D-0789-4511-9123-00305A5265CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BBF3CDF-6DFB-4371-929E-ED605C6FDD77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BBF3CDF-6DFB-4371-929E-ED605C6FDD77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BBF3CDF-6DFB-4371-929E-ED605C6FDD77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BBF3CDF-6DFB-4371-929E-ED605C6FDD77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD26AE00-4B3A-40C4-A403-1772BBEE5B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD26AE00-4B3A-40C4-A403-1772BBEE5B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD26AE00-4B3A-40C4-A403-1772BBEE5B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD26AE00-4B3A-40C4-A403-1772BBEE5B90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {570822FC-DE02-4604-8330-35EA9E621688}
+	EndGlobalSection
+EndGlobal

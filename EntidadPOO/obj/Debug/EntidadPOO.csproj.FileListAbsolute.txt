@@ -1,0 +1,15 @@
+D:\EntidadPOO\bin\Debug\EntidadPOO.exe.config
+D:\EntidadPOO\bin\Debug\EntidadPOO.exe
+D:\EntidadPOO\bin\Debug\EntidadPOO.pdb
+D:\EntidadPOO\obj\Debug\EntidadPOO.csprojAssemblyReference.cache
+D:\EntidadPOO\obj\Debug\MainWindow.g.cs
+D:\EntidadPOO\obj\Debug\App.g.cs
+D:\EntidadPOO\obj\Debug\EntidadPOO_MarkupCompile.cache
+D:\EntidadPOO\obj\Debug\EntidadPOO_MarkupCompile.lref
+D:\EntidadPOO\obj\Debug\MainWindow.baml
+D:\EntidadPOO\obj\Debug\EntidadPOO.g.resources
+D:\EntidadPOO\obj\Debug\EntidadPOO.Properties.Resources.resources
+D:\EntidadPOO\obj\Debug\EntidadPOO.csproj.GenerateResource.cache
+D:\EntidadPOO\obj\Debug\EntidadPOO.csproj.CoreCompileInputs.cache
+D:\EntidadPOO\obj\Debug\EntidadPOO.exe
+D:\EntidadPOO\obj\Debug\EntidadPOO.pdb

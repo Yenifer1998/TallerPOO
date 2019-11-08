@@ -1,0 +1,10 @@
+D:\NegocioPOO\bin\Debug\NegocioPOO.dll
+D:\NegocioPOO\bin\Debug\NegocioPOO.pdb
+D:\NegocioPOO\bin\Debug\EntidadPOO.exe
+D:\NegocioPOO\bin\Debug\EntidadPOO.pdb
+D:\NegocioPOO\bin\Debug\EntidadPOO.exe.config
+D:\NegocioPOO\obj\Debug\NegocioPOO.csprojAssemblyReference.cache
+D:\NegocioPOO\obj\Debug\NegocioPOO.csproj.CoreCompileInputs.cache
+D:\NegocioPOO\obj\Debug\NegocioPOO.csproj.CopyComplete
+D:\NegocioPOO\obj\Debug\NegocioPOO.dll
+D:\NegocioPOO\obj\Debug\NegocioPOO.pdb

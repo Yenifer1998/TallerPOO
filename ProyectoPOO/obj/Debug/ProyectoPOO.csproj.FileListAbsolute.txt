@@ -1,0 +1,16 @@
+D:\ProyectoPOO\bin\Debug\ProyectoPOO.exe.config
+D:\ProyectoPOO\bin\Debug\ProyectoPOO.exe
+D:\ProyectoPOO\bin\Debug\ProyectoPOO.pdb
+D:\ProyectoPOO\bin\Debug\EntidadPOO.exe
+D:\ProyectoPOO\bin\Debug\NegocioPOO.dll
+D:\ProyectoPOO\bin\Debug\EntidadPOO.pdb
+D:\ProyectoPOO\bin\Debug\EntidadPOO.exe.config
+D:\ProyectoPOO\bin\Debug\NegocioPOO.pdb
+D:\ProyectoPOO\obj\Debug\ProyectoPOO.csprojAssemblyReference.cache
+D:\ProyectoPOO\obj\Debug\ProyectoPOO.Form1.resources
+D:\ProyectoPOO\obj\Debug\ProyectoPOO.Properties.Resources.resources
+D:\ProyectoPOO\obj\Debug\ProyectoPOO.csproj.GenerateResource.cache
+D:\ProyectoPOO\obj\Debug\ProyectoPOO.csproj.CoreCompileInputs.cache
+D:\ProyectoPOO\obj\Debug\ProyectoPOO.csproj.CopyComplete
+D:\ProyectoPOO\obj\Debug\ProyectoPOO.exe
+D:\ProyectoPOO\obj\Debug\ProyectoPOO.pdb
